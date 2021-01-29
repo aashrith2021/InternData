@@ -1,0 +1,2 @@
+This Project contains Interns Data, 
+The Website contains data and is deployed using Nginx.
