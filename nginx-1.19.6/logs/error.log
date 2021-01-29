@@ -1,0 +1,121 @@
+2021/01/27 15:05:09 [error] 7544#5788: *1 CreateFile() "C:\Users\aashrith.kandimalla\Desktop\nginx\nginx-1.19.6/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2021/01/27 15:18:13 [notice] 11388#11904: signal process started
+2021/01/27 15:20:26 [error] 7544#5788: *7 CreateFile() "C:\Users\aashrith.kandimalla\Desktop\nginx\nginx-1.19.6/html/favicon.ico" failed (2: The system cannot find the file specified), client: 192.168.2.29, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.2.29", referrer: "http://192.168.2.29/"
+2021/01/27 15:21:11 [notice] 12048#2060: signal process started
+2021/01/27 15:21:16 [notice] 13064#1300: signal process started
+2021/01/27 15:21:16 [error] 13064#1300: CreateFile() "C:\Users\aashrith.kandimalla\Desktop\nginx\nginx-1.19.6/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2021/01/27 15:55:15 [crit] 5216#2292: *1 GetFileAttributesEx() "C:\Users\aashrith.kandimalla\Desktop
+ginx" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 127.0.0.1, server: test-server, request: "GET / HTTP/1.1", host: "localhost"
+2021/01/27 15:55:16 [crit] 5216#2292: *2 CreateFile() "C:\Users\aashrith.kandimalla\Desktop
+ginx/favicon.ico" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 127.0.0.1, server: test-server, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2021/01/27 15:57:54 [notice] 4648#8296: signal process started
+2021/01/27 15:57:56 [notice] 696#11648: signal process started
+2021/01/27 15:57:56 [error] 696#11648: CreateFile() "C:\Users\aashrith.kandimalla\Desktop\nginx\nginx-1.19.6/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2021/01/27 15:58:04 [crit] 10072#9988: *1 GetFileAttributesEx() "C:\Users\aashrith.kandimalla\Desktop
+ginx\Table.html" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 127.0.0.1, server: test-server, request: "GET / HTTP/1.1", host: "localhost"
+2021/01/27 15:58:04 [crit] 10072#9988: *2 CreateFile() "C:\Users\aashrith.kandimalla\Desktop
+ginx\Table.html/favicon.ico" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 127.0.0.1, server: test-server, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2021/01/27 15:58:05 [crit] 10072#9988: *3 GetFileAttributesEx() "C:\Users\aashrith.kandimalla\Desktop
+ginx\Table.html" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 127.0.0.1, server: test-server, request: "GET / HTTP/1.1", host: "localhost"
+2021/01/27 15:58:06 [crit] 10072#9988: *4 CreateFile() "C:\Users\aashrith.kandimalla\Desktop
+ginx\Table.html/favicon.ico" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 127.0.0.1, server: test-server, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2021/01/27 15:58:07 [crit] 10072#9988: *5 GetFileAttributesEx() "C:\Users\aashrith.kandimalla\Desktop
+ginx\Table.html" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 127.0.0.1, server: test-server, request: "GET / HTTP/1.1", host: "localhost"
+2021/01/27 15:58:07 [crit] 10072#9988: *6 CreateFile() "C:\Users\aashrith.kandimalla\Desktop
+ginx\Table.html/favicon.ico" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 127.0.0.1, server: test-server, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2021/01/27 16:11:29 [crit] 10072#9988: *8 GetFileAttributesEx() "C:\Users\aashrith.kandimalla\Desktop
+ginx\Table.html" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 127.0.0.1, server: test-server, request: "GET / HTTP/1.1", host: "localhost"
+2021/01/27 16:11:29 [crit] 10072#9988: *9 CreateFile() "C:\Users\aashrith.kandimalla\Desktop
+ginx\Table.html/favicon.ico" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 127.0.0.1, server: test-server, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2021/01/27 16:12:23 [crit] 10072#9988: *10 CreateFile() "C:\Users\aashrith.kandimalla\Desktop
+ginx\Table.html/favicon.ico" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 127.0.0.1, server: test-server, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2021/01/27 16:12:24 [crit] 10072#9988: *11 GetFileAttributesEx() "C:\Users\aashrith.kandimalla\Desktop
+ginx\Table.html" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 127.0.0.1, server: test-server, request: "GET / HTTP/1.1", host: "localhost"
+2021/01/27 16:12:24 [crit] 10072#9988: *12 CreateFile() "C:\Users\aashrith.kandimalla\Desktop
+ginx\Table.html/favicon.ico" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 127.0.0.1, server: test-server, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2021/01/27 16:12:25 [crit] 10072#9988: *13 GetFileAttributesEx() "C:\Users\aashrith.kandimalla\Desktop
+ginx\Table.html" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 127.0.0.1, server: test-server, request: "GET / HTTP/1.1", host: "localhost"
+2021/01/27 16:12:25 [crit] 10072#9988: *14 CreateFile() "C:\Users\aashrith.kandimalla\Desktop
+ginx\Table.html/favicon.ico" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 127.0.0.1, server: test-server, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2021/01/27 16:12:26 [crit] 10072#9988: *15 GetFileAttributesEx() "C:\Users\aashrith.kandimalla\Desktop
+ginx\Table.html" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 127.0.0.1, server: test-server, request: "GET / HTTP/1.1", host: "localhost"
+2021/01/27 16:12:26 [crit] 10072#9988: *16 CreateFile() "C:\Users\aashrith.kandimalla\Desktop
+ginx\Table.html/favicon.ico" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 127.0.0.1, server: test-server, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2021/01/27 16:12:27 [crit] 10072#9988: *17 GetFileAttributesEx() "C:\Users\aashrith.kandimalla\Desktop
+ginx\Table.html" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 127.0.0.1, server: test-server, request: "GET / HTTP/1.1", host: "localhost"
+2021/01/27 16:12:27 [crit] 10072#9988: *18 CreateFile() "C:\Users\aashrith.kandimalla\Desktop
+ginx\Table.html/favicon.ico" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 127.0.0.1, server: test-server, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2021/01/27 16:12:49 [crit] 10072#9988: *19 GetFileAttributesEx() "C:\Users\aashrith.kandimalla\Desktop
+ginx\Table.html" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 127.0.0.1, server: test-server, request: "GET / HTTP/1.1", host: "localhost"
+2021/01/27 16:12:49 [crit] 10072#9988: *20 CreateFile() "C:\Users\aashrith.kandimalla\Desktop
+ginx\Table.html/favicon.ico" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 127.0.0.1, server: test-server, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2021/01/27 16:14:18 [notice] 12236#7948: signal process started
+2021/01/27 16:14:19 [notice] 7292#7608: signal process started
+2021/01/27 16:14:19 [error] 7292#7608: CreateFile() "C:\Users\aashrith.kandimalla\Desktop\nginx\nginx-1.19.6/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2021/01/27 16:14:32 [crit] 10072#9988: *21 GetFileAttributesEx() "C:\Users\aashrith.kandimalla\Desktop
+ginx\Table.html" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 127.0.0.1, server: test-server, request: "GET / HTTP/1.1", host: "localhost"
+2021/01/27 16:14:32 [crit] 10072#9988: *22 CreateFile() "C:\Users\aashrith.kandimalla\Desktop
+ginx\Table.html/favicon.ico" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 127.0.0.1, server: test-server, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2021/01/27 16:14:39 [crit] 10072#9988: *24 GetFileAttributesEx() "C:\Users\aashrith.kandimalla\Desktop
+ginx\Table.html" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.2.29, server: test-server, request: "GET / HTTP/1.1", host: "192.168.2.29"
+2021/01/27 16:14:39 [crit] 10072#9988: *25 CreateFile() "C:\Users\aashrith.kandimalla\Desktop
+ginx\Table.html/favicon.ico" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.2.29, server: test-server, request: "GET /favicon.ico HTTP/1.1", host: "192.168.2.29", referrer: "http://192.168.2.29/"
+2021/01/27 16:15:27 [notice] 6300#3916: signal process started
+2021/01/27 16:15:30 [notice] 1868#11776: signal process started
+2021/01/27 16:15:30 [error] 1868#11776: CreateFile() "C:\Users\aashrith.kandimalla\Desktop\nginx\nginx-1.19.6/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2021/01/27 16:15:49 [crit] 10072#9988: *26 GetFileAttributesEx() "C:\Users\aashrith.kandimalla\Desktop
+ginx\Table.html" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.2.29, server: test-server, request: "GET / HTTP/1.1", host: "192.168.2.29"
+2021/01/27 16:15:49 [crit] 10072#9988: *27 CreateFile() "C:\Users\aashrith.kandimalla\Desktop
+ginx\Table.html/favicon.ico" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.2.29, server: test-server, request: "GET /favicon.ico HTTP/1.1", host: "192.168.2.29", referrer: "http://192.168.2.29/"
+2021/01/27 16:15:50 [crit] 10072#9988: *28 GetFileAttributesEx() "C:\Users\aashrith.kandimalla\Desktop
+ginx\Table.html" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.2.29, server: test-server, request: "GET / HTTP/1.1", host: "192.168.2.29"
+2021/01/27 16:15:50 [crit] 10072#9988: *29 CreateFile() "C:\Users\aashrith.kandimalla\Desktop
+ginx\Table.html/favicon.ico" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.2.29, server: test-server, request: "GET /favicon.ico HTTP/1.1", host: "192.168.2.29", referrer: "http://192.168.2.29/"
+2021/01/27 16:15:51 [crit] 10072#9988: *30 GetFileAttributesEx() "C:\Users\aashrith.kandimalla\Desktop
+ginx\Table.html" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.2.29, server: test-server, request: "GET / HTTP/1.1", host: "192.168.2.29"
+2021/01/27 16:15:51 [crit] 10072#9988: *31 CreateFile() "C:\Users\aashrith.kandimalla\Desktop
+ginx\Table.html/favicon.ico" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.2.29, server: test-server, request: "GET /favicon.ico HTTP/1.1", host: "192.168.2.29", referrer: "http://192.168.2.29/"
+2021/01/27 16:15:51 [crit] 10072#9988: *32 GetFileAttributesEx() "C:\Users\aashrith.kandimalla\Desktop
+ginx\Table.html" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.2.29, server: test-server, request: "GET / HTTP/1.1", host: "192.168.2.29"
+2021/01/27 16:15:51 [crit] 10072#9988: *33 CreateFile() "C:\Users\aashrith.kandimalla\Desktop
+ginx\Table.html/favicon.ico" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.2.29, server: test-server, request: "GET /favicon.ico HTTP/1.1", host: "192.168.2.29", referrer: "http://192.168.2.29/"
+2021/01/27 16:15:51 [crit] 10072#9988: *34 GetFileAttributesEx() "C:\Users\aashrith.kandimalla\Desktop
+ginx\Table.html" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.2.29, server: test-server, request: "GET / HTTP/1.1", host: "192.168.2.29"
+2021/01/27 16:15:51 [crit] 10072#9988: *35 CreateFile() "C:\Users\aashrith.kandimalla\Desktop
+ginx\Table.html/favicon.ico" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.2.29, server: test-server, request: "GET /favicon.ico HTTP/1.1", host: "192.168.2.29", referrer: "http://192.168.2.29/"
+2021/01/27 16:15:51 [crit] 10072#9988: *36 GetFileAttributesEx() "C:\Users\aashrith.kandimalla\Desktop
+ginx\Table.html" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.2.29, server: test-server, request: "GET / HTTP/1.1", host: "192.168.2.29"
+2021/01/27 16:15:51 [crit] 10072#9988: *37 CreateFile() "C:\Users\aashrith.kandimalla\Desktop
+ginx\Table.html/favicon.ico" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.2.29, server: test-server, request: "GET /favicon.ico HTTP/1.1", host: "192.168.2.29", referrer: "http://192.168.2.29/"
+2021/01/27 16:16:55 [notice] 10432#3708: signal process started
+2021/01/27 16:17:14 [notice] 12260#10500: signal process started
+2021/01/27 16:17:14 [error] 12260#10500: CreateFile() "C:\Users\aashrith.kandimalla\Desktop\nginx\nginx-1.19.6/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2021/01/27 16:17:17 [notice] 7792#2264: signal process started
+2021/01/27 16:17:17 [error] 7792#2264: CreateFile() "C:\Users\aashrith.kandimalla\Desktop\nginx\nginx-1.19.6/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2021/01/27 16:17:18 [notice] 4952#5304: signal process started
+2021/01/27 16:17:18 [error] 4952#5304: CreateFile() "C:\Users\aashrith.kandimalla\Desktop\nginx\nginx-1.19.6/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2021/01/27 16:17:20 [notice] 8504#8416: signal process started
+2021/01/27 16:17:20 [error] 8504#8416: CreateFile() "C:\Users\aashrith.kandimalla\Desktop\nginx\nginx-1.19.6/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2021/01/27 16:17:21 [notice] 7368#3580: signal process started
+2021/01/27 16:17:21 [error] 7368#3580: CreateFile() "C:\Users\aashrith.kandimalla\Desktop\nginx\nginx-1.19.6/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2021/01/27 16:19:57 [error] 11544#2632: *2 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 192.168.2.29, server: test-server, request: "GET / HTTP/1.1", upstream: "http://[::1]:5000/", host: "192.168.2.29"
+2021/01/27 16:40:04 [error] 11544#2632: *10 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 192.168.2.17, server: test-server, request: "GET / HTTP/1.1", upstream: "http://[::1]:5000/", host: "192.168.2.29", referrer: "http://192.168.2.17/"
+2021/01/27 16:40:48 [error] 11544#2632: *14 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 192.168.2.20, server: test-server, request: "GET /favicon.ico HTTP/1.1", upstream: "http://[::1]:5000/favicon.ico", host: "192.168.2.29", referrer: "http://192.168.2.29/"
+2021/01/27 17:42:06 [error] 11544#2632: *33 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 192.168.2.57, server: test-server, request: "GET / HTTP/1.1", upstream: "http://[::1]:5000/", host: "192.168.2.29", referrer: "http://192.168.2.17/"
+2021/01/27 17:42:25 [error] 11544#2632: *39 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 192.168.2.13, server: test-server, request: "GET /favicon.ico HTTP/1.1", upstream: "http://[::1]:5000/favicon.ico", host: "192.168.2.29", referrer: "http://192.168.2.29/"
+2021/01/27 17:43:11 [error] 11544#2632: *47 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 192.168.2.39, server: test-server, request: "GET /favicon.ico HTTP/1.1", upstream: "http://[::1]:5000/favicon.ico", host: "192.168.2.29", referrer: "http://192.168.2.29/"
+2021/01/28 15:22:36 [error] 12988#7872: *1 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 192.168.2.13, server: test-server, request: "GET / HTTP/1.1", upstream: "http://[::1]:5000/", host: "192.168.2.29"
+2021/01/28 15:22:38 [error] 12988#7872: *1 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 192.168.2.13, server: test-server, request: "GET / HTTP/1.1", upstream: "http://127.0.0.1:5000/", host: "192.168.2.29"
+2021/01/28 15:22:38 [error] 12988#7872: *1 no live upstreams while connecting to upstream, client: 192.168.2.13, server: test-server, request: "GET /favicon.ico HTTP/1.1", upstream: "http://localhost/favicon.ico", host: "192.168.2.29", referrer: "http://192.168.2.29/"
+2021/01/28 15:23:01 [error] 12988#7872: *5 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 192.168.2.29, server: test-server, request: "GET /favicon.ico HTTP/1.1", upstream: "http://[::1]:5000/favicon.ico", host: "192.168.2.29", referrer: "http://192.168.2.29/"
+2021/01/28 15:36:29 [error] 12988#7872: *20 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 192.168.2.13, server: test-server, request: "POST /calculate HTTP/1.1", upstream: "http://[::1]:5000/calculate", host: "192.168.2.29", referrer: "http://192.168.2.29/"
+2021/01/28 15:36:31 [error] 12988#7872: *20 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 192.168.2.13, server: test-server, request: "POST /calculate HTTP/1.1", upstream: "http://127.0.0.1:5000/calculate", host: "192.168.2.29", referrer: "http://192.168.2.29/"
+2021/01/28 15:39:56 [error] 13168#7504: *1 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 192.168.2.29, server: test-server, request: "GET / HTTP/1.1", upstream: "http://[::1]:5000/", host: "192.168.2.29"
+2021/01/28 15:39:58 [error] 13168#7504: *1 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 192.168.2.29, server: test-server, request: "GET / HTTP/1.1", upstream: "http://127.0.0.1:5000/", host: "192.168.2.29"
+2021/01/28 15:50:54 [error] 13168#7504: *4 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 192.168.2.13, server: test-server, request: "POST /calculate HTTP/1.1", upstream: "http://127.0.0.1:5000/calculate", host: "192.168.2.29", referrer: "http://192.168.2.29/"
+2021/01/28 15:50:56 [error] 13168#7504: *4 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 192.168.2.13, server: test-server, request: "POST /calculate HTTP/1.1", upstream: "http://[::1]:5000/calculate", host: "192.168.2.29", referrer: "http://192.168.2.29/"
+2021/01/28 15:58:32 [error] 13168#7504: *9 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 192.168.2.29, server: test-server, request: "GET / HTTP/1.1", upstream: "http://127.0.0.1:5000/", host: "192.168.2.29"
+2021/01/28 15:58:32 [error] 13168#7504: *9 no live upstreams while connecting to upstream, client: 192.168.2.29, server: test-server, request: "GET / HTTP/1.1", upstream: "http://localhost/", host: "192.168.2.29"
+2021/01/28 15:58:33 [error] 13168#7504: *11 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 192.168.2.57, server: test-server, request: "GET / HTTP/1.1", upstream: "http://[::1]:5000/", host: "192.168.2.29"
+2021/01/28 15:58:33 [error] 13168#7504: *11 no live upstreams while connecting to upstream, client: 192.168.2.57, server: test-server, request: "GET / HTTP/1.1", upstream: "http://localhost/", host: "192.168.2.29"
+2021/01/28 15:58:34 [error] 13168#7504: *11 no live upstreams while connecting to upstream, client: 192.168.2.57, server: test-server, request: "GET /favicon.ico HTTP/1.1", upstream: "http://localhost/favicon.ico", host: "192.168.2.29", referrer: "http://192.168.2.29/"
